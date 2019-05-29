@@ -38,7 +38,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/AnnaWojcikS/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-0.0.2</tag>
+      <tag>pet-clinic-0.0.3</tag>
   </scm>
 
 </project>
