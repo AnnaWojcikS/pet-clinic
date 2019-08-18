@@ -1,5 +1,14 @@
 C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\model\PetType.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\model\BaseEntity.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\model\Owner.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\services\map\AbstractMapService.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\services\map\OwnerServiceMap.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\services\map\VetServiceMap.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\model\Person.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\services\VetService.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\services\map\PetServiceMap.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\services\OwnerService.java
 C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\model\Pet.java
 C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\model\Vet.java
-C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\model\Owner.java
-C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\model\Person.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\services\CrudService.java
+C:\Ania\IdeaProjects\pet-clinic\pet-clinic-data\src\main\java\pl\spring\petclinic\services\PetService.java
